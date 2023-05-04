@@ -1,4 +1,4 @@
-# FirstContactGPT
+# First Contact GPT
 First Contact GPT is a conversational AI game inspired by Star Trek. In this game, you take on the role of Joseph Rybar, the captain of the USS Carpathia, who is sent out to establish contact with an advanced, unknown alien race. Your objective is to communicate with the alien race and negotiate a personal meeting with their representatives.
 
 ![](assets/FirstContactGPTGameScreenshot.PNG)
