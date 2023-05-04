@@ -3,7 +3,7 @@ First Contact GPT is a conversational AI game inspired by Star Trek. In this gam
 
 ![](assets/FirstContactGPTGameScreenshot.PNG)
  
-The game is developed in Python and uses OpenAI's GPT API model to simulate conversations with the alien race. I created this game as a tech demo to showcase how recent advances in AI could revolutionize the future of gaming. The game features a system I call the "AI Mission Monitor in the Loop."
+The game is developed in Python and uses OpenAI's GPT API to simulate conversations with the alien race. I created this game as a tech demo to showcase how recent advances in AI could revolutionize the future of gaming. The game features a system I call the "AI Mission Monitor in the Loop."
 
 * Add image
 
